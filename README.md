@@ -1,0 +1,1 @@
+Webpack config taken from react-scripts.
